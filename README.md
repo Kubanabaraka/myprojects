@@ -2,13 +2,12 @@ My Project
 
 Description
 
-This project is designed to make simple static website. It provides.
-
+This project is designed to make simple static website.
 Installation
 
 Clone this repository:
 
-git clone https://github.com/kubanabaraka/myproject.git
+git clone https://github.com/Kubanabaraka/myproject.git
 
 Navigate to the project folder:
 
